@@ -9,9 +9,7 @@ Alexa is my MagicMirror alexa enabled attempt.It took me several weeks to develo
 Thanks to @MichMich first, for developing such a great MagicMirror software growing every day!.
 You  can see his work here(It is crucial on this project) 
 
-[MagicMirror repository](https://github.com/MichMich/MagicMirror)
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+[MagicMirror Repository](https://github.com/MichMich/MagicMirror)
 
 ### Jekyll Themes
 
