@@ -2,12 +2,14 @@
 
 <iframe width="854" height="480" src="https://www.youtube.com/embed/I0a1GjF9JYk" frameborder="0" allowfullscreen></iframe>
 
-Alexa is my MagicMirror alexa enabled attempt.It took me several weeks to develop and today I bring it to you in a short and easy way,I hope,well I'm only 15 I'm just leaving the shell.
+Alexa is my MagicMirror alexa enabled attempt.It took me several weeks to develop and today I bring it to you in a short and easy way,I hope.Well I'm only 15 I'm just leaving the shell.
 
-### Markdown
+### "Alexa" enabled MagicMirror
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
+Thanks to @MichMich first, for developing such a great MagicMirror software growing every day!.
+You  can see his work here(It is crucial on this project)
+```markdown
+https://github.com/MichMich/MagicMirror
 ```markdown
 Syntax highlighted code block
 
