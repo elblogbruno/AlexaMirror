@@ -10,7 +10,6 @@ Thanks to @MichMich first, for developing such a great MagicMirror software grow
 You  can see his work here(It is crucial on this project)
 ```markdown
 https://github.com/MichMich/MagicMirror
-```markdown
 Syntax highlighted code block
 
 # Header 1
