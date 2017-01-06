@@ -7,7 +7,10 @@ Alexa is my MagicMirror alexa enabled attempt.It took me several weeks to develo
 ### "Alexa" enabled MagicMirror
 
 Thanks to @MichMich first, for developing such a great MagicMirror software growing every day!.
-You  can see his work here(It is crucial on this project) https://github.com/MichMich/MagicMirror
+You  can see his work here(It is crucial on this project) 
+
+https://github.com/MichMich/MagicMirror
+
 ```markdown
 Syntax highlighted code block
 
