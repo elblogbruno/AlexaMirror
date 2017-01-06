@@ -9,25 +9,7 @@ Alexa is my MagicMirror alexa enabled attempt.It took me several weeks to develo
 Thanks to @MichMich first, for developing such a great MagicMirror software growing every day!.
 You  can see his work here(It is crucial on this project) 
 
-https://github.com/MichMich/MagicMirror
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
+[MagicMirror repository](https://github.com/MichMich/MagicMirror)
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
