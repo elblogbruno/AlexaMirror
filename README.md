@@ -176,11 +176,6 @@ cd wakeWordAgent/src && ./wakeWordAgent -e kitt_ai
 
 Now you have a working hands-free AVS prototype!
 
-Use the following resources to learn more about available wake word engines:
-
-    Sensory
-    KITT.AI
-
 Know click space on my script to follow the installation.
 ### Support or Contact
 
