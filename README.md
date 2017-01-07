@@ -21,6 +21,7 @@ type
 
 curl -sL https://raw.githubusercontent.com/elblogbruno/AlexaMirror/master/installscript.sh | bash
 
+[[https://github.com/elblogbruno/AlexaMirror/blob/master/img/setaudiooutputalexa.png|alt=setaudiooutputalexa]]
 ```
 
 ### Support or Contact
