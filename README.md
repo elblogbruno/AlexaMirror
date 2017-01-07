@@ -31,13 +31,13 @@ When you arrive to that part of the installation,you can choose between using hd
 
 When alexa installation finishesfollow this steps(they've been took from alexa avs sample app wiki):
 
-Step 1: Register for an Amazon developer account
+### Step 1: Register for an Amazon developer account
 
 Unless you already have one, go ahead and create a free developer account at developer.amazon.com. You should review the AVS Terms and Agreements here.
 
 ![Image of alexa](https://github.com/alexa/alexa-avs-sample-app/wiki/assets/amazon-dev-account.png)
 
-Step 2: Create a device and security profile
+### Step 2: Create a device and security profile
 
 Follow the steps here to register your product and create a security profile.
 
@@ -51,7 +51,7 @@ Important: Make sure your Allowed Origins and Allowed Return URLs are set under 
 
 ![Image of alexa](https://github.com/alexa/alexa-avs-sample-app/wiki/assets/allowed-origins.png)
 
-Step 3: Update the install script with your credentials
+### Step 3: Update the install script with your credentials
 
 Before you run the install script, you need to update the script with the credentials that you got in step 3 - ProductID, ClientID, ClientSecret.
 
