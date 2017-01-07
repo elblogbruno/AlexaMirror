@@ -23,7 +23,8 @@ curl -sL https://raw.githubusercontent.com/elblogbruno/AlexaMirror/master/instal
 
 ```
 
-[[https://github.com/elblogbruno/AlexaMirror/blob/master/setaudiooutputalexa.png]]
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
 ### Support or Contact
 
 Having trouble with AlexaMirror? You can sent me an email to elblogdebruno@outlook.es 
