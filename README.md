@@ -28,6 +28,7 @@ When you arrive to that part of the installation,you can choose between using hd
 ![Image of Yaktocat](https://github.com/elblogbruno/AlexaMirror/blob/master/setaudiooutputalexa.png)
 
 When alexa installation finishes
+
 ### Support or Contact
 
 Having trouble with AlexaMirror? You can sent me an email to elblogdebruno@outlook.es 
