@@ -23,8 +23,11 @@ curl -sL https://raw.githubusercontent.com/elblogbruno/AlexaMirror/master/instal
 
 ```
 
+When you arrive to that part of the installation,you can choose between using hdmi output for sound or speakers conected to the 3.5 mm jack output
+
 ![Image of Yaktocat](https://github.com/elblogbruno/AlexaMirror/blob/master/setaudiooutputalexa.png)
 
+When alexa installation finishes
 ### Support or Contact
 
 Having trouble with AlexaMirror? You can sent me an email to elblogdebruno@outlook.es 
