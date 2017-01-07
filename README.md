@@ -177,6 +177,7 @@ cd wakeWordAgent/src && ./wakeWordAgent -e kitt_ai
 Now you have a working hands-free AVS prototype!
 
 Know click space on my script to follow the installation.
+
 ### Support or Contact
 
 Having trouble with AlexaMirror? You can sent me an email to elblogdebruno@outlook.es 
