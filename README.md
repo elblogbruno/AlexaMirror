@@ -65,6 +65,62 @@ When you arrive to that part of the installation,you can choose between using hd
 
 ![Image of output](https://github.com/elblogbruno/AlexaMirror/blob/master/setaudiooutputalexa.png?raw=true)
 
+When you arrive to that part,you need to follow some easy steps so you are sure alexa is working perfectly.(Again I've took it out from alexa-avs-sample-app wiki)
+
+![Image of output](https://github.com/elblogbruno/AlexaMirror/blob/master/space.png?raw=true)
+
+
+### Step 1: Run your web service, sample app and wake word engine
+
+Now that installation is complete, you'll need to run three commands in 3 separate terminal windows:
+
+    Terminal Window 1: to run the web service for authorization
+    Terminal Window 2: to run the sample app to communicate with AVS
+    Terminal Window 3: to run the wake word engine which allows you to start an interaction using the phrase "Alexa".
+
+Note: These commands must be run in order.
+## Terminal Window 1
+
+Open a new terminal window and type the following commands to bring up the web service which is used to authorize your sample app with AVS:
+
+cd ~/AlexaMirror/alexa-avs-sample-app/samples
+cd companionService && npm start
+
+![Image of output](https://github.com/alexa/alexa-avs-sample-app/wiki/assets/avs-pi-1.png)
+
+![Image of output](https://github.com/alexa/alexa-avs-sample-app/wiki/assets/avs-pi-2.png)
+
+The server is now running on port 3000 and you are ready to start the client. 
+
+## Terminal Window 2
+
+Open a new terminal window and type the following commands to run the sample app, which communicates with AVS:
+
+cd ~/Desktop/alexa-avs-sample-app/samples
+cd javaclient && mvn exec:exec
+
+![Image of output](https://github.com/alexa/alexa-avs-sample-app/wiki/assets/avs-pi-3.png)
+
+Let's walk through the next few steps relevant to Window 2.
+
+    When you run the client, a window should pop up with a message that says -
+
+    Please register your device by visiting the following URL in a web browser and following the instructions:   https://localhost:3000/provision/d340f629bd685deeff28a917. Would you like to open the URL automatically in your default browser?
+
+![Image of output](https://github.com/alexa/alexa-avs-sample-app/wiki/assets/avs-pi-5.png)
+
+Click on "Yes" to open the URL in your default browser.
+
+If you're running Raspbian Jessie with Pixel desktop (and with Chromium browser), you may get a warning from the browser. You can get around it by clicking on Advanced -> Proceed to localhost(unsafe).
+
+![Image of output](https://github.com/alexa/alexa-avs-sample-app/wiki/assets/safety-1.png)
+
+![Image of output](https://github.com/alexa/alexa-avs-sample-app/wiki/assets/safety-2.png)
+
+You'll be taken to a Login with Amazon web page. Enter your Amazon credentials.
+
+![Image of output](https://github.com/alexa/alexa-avs-sample-app/wiki/assets/lwa-signin.png)
+
 
 ### Support or Contact
 
