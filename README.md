@@ -177,7 +177,7 @@ cd wakeWordAgent/src && ./wakeWordAgent -e kitt_ai
 
 Now you have a working hands-free AVS prototype!
 
-Know click space on my script to follow the installation.
+Now click space on my script to follow the installation.
 
 ### Support or Contact
 
