@@ -79,12 +79,17 @@ Now that installation is complete, you'll need to run three commands in 3 separa
     Terminal Window 3: to run the wake word engine which allows you to start an interaction using the phrase "Alexa".
 
 Note: These commands must be run in order.
+
 ## Terminal Window 1
 
 Open a new terminal window and type the following commands to bring up the web service which is used to authorize your sample app with AVS:
 
+```markdown
+
 cd ~/AlexaMirror/alexa-avs-sample-app/samples
 cd companionService && npm start
+
+```
 
 ![Image of output](https://github.com/alexa/alexa-avs-sample-app/wiki/assets/avs-pi-1.png)
 
@@ -96,9 +101,12 @@ The server is now running on port 3000 and you are ready to start the client.
 
 Open a new terminal window and type the following commands to run the sample app, which communicates with AVS:
 
+```markdown
+
 cd ~/Desktop/alexa-avs-sample-app/samples
 cd javaclient && mvn exec:exec
 
+```
 ![Image of output](https://github.com/alexa/alexa-avs-sample-app/wiki/assets/avs-pi-3.png)
 
 Let's walk through the next few steps relevant to Window 2.
@@ -145,14 +153,20 @@ Open a new terminal window and use the following commands to bring up a wake wor
 
 To use the Sensory wake word engine, type -
 
+```markdown
+
 cd ~/Desktop/alexa-avs-sample-app/samples
 cd wakeWordAgent/src && ./wakeWordAgent -e sensory
 
+```
 or, type this to use KITT.AI's wake word engine -
+
+```markdown
 
 cd ~/Desktop/alexa-avs-sample-app/samples
 cd wakeWordAgent/src && ./wakeWordAgent -e kitt_ai
 
+```
 ![Image of output](https://github.com/alexa/alexa-avs-sample-app/wiki/assets/avs-pi-7.png)
 
 Now you have a working hands-free AVS prototype!
