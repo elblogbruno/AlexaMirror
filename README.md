@@ -10,6 +10,7 @@ Thanks to @MichMich first and the alexa team, for developing such a great softwa
 You  can see his work here(It is crucial on this project) 
 
 [MagicMirror Repository](https://github.com/MichMich/MagicMirror)
+
 [Alexa Avs Sample App ](https://github.com/alexa/alexa-avs-sample-app/)
 
 ### What you need to do.
@@ -18,7 +19,7 @@ type
 
 ```markdown
 
-'curl -sL https://raw.githubusercontent.com/elblogbruno/AlexaMirror/master/installscript.sh | bash'
+"curl -sL https://raw.githubusercontent.com/elblogbruno/AlexaMirror/master/installscript.sh | bash"
 
 ```
 
