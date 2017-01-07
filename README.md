@@ -17,7 +17,9 @@ Open a terminal
 type 
 
 ```markdown
+
 curl -sL https://raw.githubusercontent.com/elblogbruno/AlexaMirror/master/installscript.sh | bash
+
 ```
 
 ### Support or Contact
