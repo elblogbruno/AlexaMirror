@@ -6,15 +6,17 @@ Alexa is my MagicMirror alexa enabled attempt.It took me several weeks to develo
 
 ### "Alexa" enabled MagicMirror
 
-Thanks to @MichMich first, for developing such a great MagicMirror software growing every day!.
+Thanks to @MichMich first and the alexa team, for developing such a great software growing every day!.
 You  can see his work here(It is crucial on this project) 
 
 [MagicMirror Repository](https://github.com/MichMich/MagicMirror)
+[Alexa Avs Sample App ](https://github.com/alexa/alexa-avs-sample-app/)
 
 ### What you need to do.
 Open a terminal
 type 
-"curl -sL https://raw.githubusercontent.com/elblogbruno/AlexaMirror/master/installscript.sh | bash"
+```markdown
+curl -sL https://raw.githubusercontent.com/elblogbruno/AlexaMirror/master/installscript.sh | bash
 
 ### Support or Contact
 
