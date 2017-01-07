@@ -103,9 +103,9 @@ cd javaclient && mvn exec:exec
 
 Let's walk through the next few steps relevant to Window 2.
 
-    When you run the client, a window should pop up with a message that says -
+When you run the client, a window should pop up with a message that says -
 
-    Please register your device by visiting the following URL in a web browser and following the instructions:   https://localhost:3000/provision/d340f629bd685deeff28a917. Would you like to open the URL automatically in your default browser?
+Please register your device by visiting the following URL in a web browser and following the instructions: https://localhost:3000/provision/d340f629bd685deeff28a917. Would you like to open the URL automatically in your default browser?
 
 ![Image of output](https://github.com/alexa/alexa-avs-sample-app/wiki/assets/avs-pi-5.png)
 
@@ -117,9 +117,50 @@ If you're running Raspbian Jessie with Pixel desktop (and with Chromium browser)
 
 ![Image of output](https://github.com/alexa/alexa-avs-sample-app/wiki/assets/safety-2.png)
 
-You'll be taken to a Login with Amazon web page. Enter your Amazon credentials.
+You'll be taken to a Login with Amazon web page. Enter your Amazon credentials.And click on keep me signed and allow chromium to remember your credentials(it's very important)
 
 ![Image of output](https://github.com/alexa/alexa-avs-sample-app/wiki/assets/lwa-signin.png)
+
+You'll be taken to a Dev Authorization page, confirming that you’d like your device to access the Security Profile created earlier.
+
+![Image of output](https://github.com/alexa/alexa-avs-sample-app/wiki/assets/avs-device-permission.png)
+
+Click Okay.
+
+You will now be redirected to a URL beginning with https://localhost:3000/authresponse followed by a query string. The body of the web page will say device tokens ready.
+
+![Image of output](https://github.com/alexa/alexa-avs-sample-app/wiki/assets/avs-device-tokens-ready.png)
+
+Return to the Java application and click the OK button. The client is now ready to accept Alexa requests.
+
+![Image of output](https://github.com/alexa/alexa-avs-sample-app/wiki/assets/avs-click-ok.png)
+
+![Image of output](https://github.com/alexa/alexa-avs-sample-app/wiki/assets/avs-pi-6.png)
+
+## Terminal Window 3
+
+This project supports two third-party wake word engines: Sensory's TrulyHandsFree and KITT.AI's Snowboy. The -e parameter is used to select the agent and supports two values for {{engine}}: kitt_ai and sensory.
+
+Open a new terminal window and use the following commands to bring up a wake word engine from Sensory or KITT.AI. The wake word engine will allow you to initiate interactions using the phrase "Alexa".
+
+To use the Sensory wake word engine, type -
+
+cd ~/Desktop/alexa-avs-sample-app/samples
+cd wakeWordAgent/src && ./wakeWordAgent -e sensory
+
+or, type this to use KITT.AI's wake word engine -
+
+cd ~/Desktop/alexa-avs-sample-app/samples
+cd wakeWordAgent/src && ./wakeWordAgent -e kitt_ai
+
+![Image of output](https://github.com/alexa/alexa-avs-sample-app/wiki/assets/avs-pi-7.png)
+
+Now you have a working hands-free AVS prototype!
+
+Use the following resources to learn more about available wake word engines:
+
+    Sensory
+    KITT.AI
 
 
 ### Support or Contact
