@@ -4,10 +4,11 @@
 
 Alexa is my MagicMirror alexa enabled attempt.It took me several weeks to develop and today I bring it to you in a short and easy way,I hope.Well I'm only 15 I'm just leaving the shell.
 ## This only works on raspberry pi!
+
 ### "Alexa" enabled MagicMirror
 
 Thanks to @MichMich first and the alexa team, for developing such a great software growing every day!.
-You  can see his work here(It is crucial on this project) 
+You  can see their work here(It is crucial on this project).You will not need any kind of button instalation,you will be able to just say "alexa" + command.
 
 [MagicMirror Repository](https://github.com/MichMich/MagicMirror)
 
