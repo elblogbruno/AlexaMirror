@@ -113,7 +113,11 @@ Let's walk through the next few steps relevant to Window 2.
 
 When you run the client, a window should pop up with a message that says -
 
+```markdown
+
 Please register your device by visiting the following URL in a web browser and following the instructions: https://localhost:3000/provision/d340f629bd685deeff28a917. Would you like to open the URL automatically in your default browser?
+
+```
 
 ![Image of output](https://github.com/alexa/alexa-avs-sample-app/wiki/assets/avs-pi-5.png)
 
