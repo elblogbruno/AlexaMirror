@@ -25,5 +25,6 @@ curl -sL https://raw.githubusercontent.com/elblogbruno/AlexaMirror/master/instal
 
 ### Support or Contact
 
-Having trouble with AlexaMirror? You can sent me an email to elblogdebruno@outlook.es
+Having trouble with AlexaMirror? You can sent me an email to elblogdebruno@outlook.es 
+
 Thanks a lot!
