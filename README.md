@@ -3,7 +3,7 @@
 <iframe width="854" height="480" src="https://www.youtube.com/embed/I0a1GjF9JYk" frameborder="0" allowfullscreen></iframe>
 
 Alexa is my MagicMirror alexa enabled attempt.It took me several weeks to develop and today I bring it to you in a short and easy way,I hope.Well I'm only 15 I'm just leaving the shell.
-
+## This only works on raspberry pi!
 ### "Alexa" enabled MagicMirror
 
 Thanks to @MichMich first and the alexa team, for developing such a great software growing every day!.
@@ -180,7 +180,7 @@ Use the following resources to learn more about available wake word engines:
     Sensory
     KITT.AI
 
-
+Know click space on my script to follow the installation.
 ### Support or Contact
 
 Having trouble with AlexaMirror? You can sent me an email to elblogdebruno@outlook.es 
