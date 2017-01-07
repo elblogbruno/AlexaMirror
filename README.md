@@ -10,7 +10,10 @@ Thanks to @MichMich first, for developing such a great MagicMirror software grow
 You  can see his work here(It is crucial on this project) 
 
 [MagicMirror Repository](https://github.com/MichMich/MagicMirror)
-
+### What you need to do.
+Open a terminal
+type 
+"curl -sL https://raw.githubusercontent.com/elblogbruno/AlexaMirror/master/installscript.sh | bash"
 
 ### Support or Contact
 
