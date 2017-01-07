@@ -29,7 +29,7 @@ When you arrive to that part of the installation,you can choose between using hd
 ![Image of output](https://github.com/elblogbruno/AlexaMirror/blob/master/setaudiooutputalexa.png)
 
 
-When alexa installation finishesfollow this steps(they've been took from alexa avs sample app wiki):
+When alexa installation starts follow this steps(they've been took from alexa avs sample app wiki):
 
 ### Step 1: Register for an Amazon developer account
 
@@ -65,7 +65,7 @@ The changes should look like this:
     ClientID="amzn.xxxxx.xxxxxxxxx"
     ClientSecret="4e8cb14xxxxxxxxxxxxxxxxxxxxxxxxxxxxx6b4f9"
 
-Type ctrl-X and then Y, and then press Enter to save the changes to the file.
+Type ctrl-X and then Y, and then press Enter to save the changes to the file and press space on my little script to follow the installation.
 
 ### Support or Contact
 
