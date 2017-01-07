@@ -18,7 +18,7 @@ type
 
 ```markdown
 
-curl -sL https://raw.githubusercontent.com/elblogbruno/AlexaMirror/master/installscript.sh | bash
+#curl -sL https://raw.githubusercontent.com/elblogbruno/AlexaMirror/master/installscript.sh | bash
 
 ```
 
