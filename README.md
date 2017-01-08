@@ -9,7 +9,7 @@ Alexa is my MagicMirror alexa enabled attempt.It took me several weeks to develo
 ### "Alexa" enabled MagicMirror
 
 Thanks to @MichMich first and the alexa team, for developing such a great software growing every day!.
-You  can see their work here(It is crucial on this project).You will not need any kind of button instalation,you will be able to just say ```  markdown "alexa"   ``` +  ```markdown  "command"   ```
+You  can see their work here(It is crucial on this project).You will not need any kind of button instalation,you will be able to just say ```  markdown "alexa"   ```  +   ```markdown   "command"   ```
 
 [MagicMirror Repository](https://github.com/MichMich/MagicMirror)
 
