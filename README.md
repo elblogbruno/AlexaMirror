@@ -16,7 +16,7 @@ You  can see their work here(It is crucial on this project).You will not need an
 [Alexa Avs Sample App ](https://github.com/alexa/alexa-avs-sample-app/)
 
 ### What you need to do.
-Open a terminal
+Open a terminal and
 type 
 
 ```markdown
