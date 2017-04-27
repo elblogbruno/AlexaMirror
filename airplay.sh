@@ -7,4 +7,5 @@ sudo ./Build test
 sudo ./Build install
 git clone https://github.com/hendrikw82/shairport.git 
 cd shairport
-./shairport.pl -a AlexaPi
+make
+./shairport.pl -a AlexaMirror
